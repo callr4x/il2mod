@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "il2mod", "il2mod\il2mod.vcxproj", "{6757CD37-D13A-473F-9128-453254387A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6757CD37-D13A-473F-9128-453254387A99}.Debug|x64.ActiveCfg = Debug|x64
+		{6757CD37-D13A-473F-9128-453254387A99}.Debug|x64.Build.0 = Debug|x64
+		{6757CD37-D13A-473F-9128-453254387A99}.Debug|x86.ActiveCfg = Debug|Win32
+		{6757CD37-D13A-473F-9128-453254387A99}.Debug|x86.Build.0 = Debug|Win32
+		{6757CD37-D13A-473F-9128-453254387A99}.Release|x64.ActiveCfg = Release|x64
+		{6757CD37-D13A-473F-9128-453254387A99}.Release|x64.Build.0 = Release|x64
+		{6757CD37-D13A-473F-9128-453254387A99}.Release|x86.ActiveCfg = Release|Win32
+		{6757CD37-D13A-473F-9128-453254387A99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE4DDF1-5E78-4B0A-83E6-D3081F66EC8C}
+	EndGlobalSection
+EndGlobal
